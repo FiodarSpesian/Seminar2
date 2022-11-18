@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/watcher/Desktop/Studies/1st Term/3) Meeting.With.Languages /Seminars/Seminar2/Example/Example.csproj": {}
+  },
+  "projects": {
+    "/Users/watcher/Desktop/Studies/1st Term/3) Meeting.With.Languages /Seminars/Seminar2/Example/Example.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/watcher/Desktop/Studies/1st Term/3) Meeting.With.Languages /Seminars/Seminar2/Example/Example.csproj",
+        "projectName": "Example",
+        "projectPath": "/Users/watcher/Desktop/Studies/1st Term/3) Meeting.With.Languages /Seminars/Seminar2/Example/Example.csproj",
+        "packagesPath": "/Users/watcher/.nuget/packages/",
+        "outputPath": "/Users/watcher/Desktop/Studies/1st Term/3) Meeting.With.Languages /Seminars/Seminar2/Example/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/watcher/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
