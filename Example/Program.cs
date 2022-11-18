@@ -58,7 +58,7 @@ else
 161 -> да 
 Console.WriteLine("Enter number: ");
 int number = intRead();
-// Можно решить через if(number % 7 == 0 & number % 23 == 0)
+// Можно решить через if(number % 7 == 0 & number % 23 == 0) & -и | -или 
 if (number % 7 == 0)
 {
     if(number % 23 == 0)
